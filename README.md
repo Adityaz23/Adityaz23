@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Soni</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img align = "center" alt = "coding" width = "400" src ="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ejxvager04ofjm0fgou5asov9vntyqqw1ywtjws7&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
+<img align = "center" alt = "coding" width = "350" src ="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ejxvager04ofjm0fgou5asov9vntyqqw1ywtjws7&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaz23&label=Profile%20views&color=0e75b6&style=flat" alt="adityaz23" /> </p>
 
