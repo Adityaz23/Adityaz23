@@ -17,6 +17,8 @@
 - 💬 Ask me about **HTML, CSS, JAVA, JAVASCRIPT, NODE.JS**
 
 - 📫 How to reach me **soniadityakumar651@gmail.com**
+  
+- I have also started learning React which will help me in building single slide websites**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
