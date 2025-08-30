@@ -1,14 +1,14 @@
 # Hey there 👋, I'm Aditya Soni  
 
-💡 Passionate Full-Stack Developer | 🚀 Exploring Rust, Actix, Node.js & Deno | 🌱 MERN Stack Enthusiast  
+💡 Passionate Full-Stack Developer | 🚀 Exploring Rust, Actix, Node.js & Deno, React native , Expo, NextJS, Hono | 🌱 MERN Stack Enthusiast  
 
 ---
 
 ## 📖 About Me  
-- 🔭 Currently learning **Rust, Actix, Node.js, Deno**  
-- ✅ Successfully built projects with the **MERN stack**  
+- 🔭 Currently learning **Rust, Actix, Node.js, Deno, React native , Expo, NextJS, Hono**  
+- ✅ Successfully built projects with the **MERN stack**, **React Native** , **NextJS**  
 - ☁️ Exploring **Cloud, DevOps, and Scalable Architectures**  
-- 💬 Ask me about **JavaScript, React, Next.js, Databases, or Backend Development**  
+- 💬 Ask me about **JavaScript, React, Next.js, Databases, Backend Development, React Native**  
 - ⚡ Fun Fact: I love mixing **tech + creativity** 🎨  
 
 ---
@@ -36,9 +36,13 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Deno](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Expo](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![Hono](https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white)  
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 </details>
 
