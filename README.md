@@ -97,13 +97,6 @@
 
 ---
 
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsuji&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-
 ## ✍️ Random Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
@@ -120,14 +113,6 @@
 ## 🎶 Current Vibe  
 
 [![Wicked Games - The Weeknd](https://img.shields.io/badge/Now_Playing-Wicked_Games_🎧-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81)
-
----
-
-## 🎶 Now Playing on Spotify  
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_username)
-
----
 
 ---
 ✨ _Thanks for visiting! Drop a ⭐ on repositories you like._  
