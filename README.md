@@ -90,12 +90,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsuji&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsuji&theme=radical&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsuji&theme=radical&hide_border=false&layout=compact&langs_count=10"/>
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsuji&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=1)
 </p>
 
 ---
