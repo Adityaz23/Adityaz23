@@ -90,7 +90,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsuji&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=1)
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsuji&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=2" />
 </p>
 
 ---
