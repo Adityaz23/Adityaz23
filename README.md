@@ -14,16 +14,8 @@
 
 ---
 
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-soni-83225a22b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/AdityaS69610269">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityakumarsoni28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/aditya-soni-83225a22b) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Adityaz23) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AdityaS69610269) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soniadityakumar651@gmail.com) 
 
 ---
 
@@ -86,40 +78,22 @@
 </details>
 
 ---
+# 📊 GitHub Stats:
 
-## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=Adityaz23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Adityaz23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaz23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsuji&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=3" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Adityaz23&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsuji&theme=radical&hide_border=false" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
----
-
-## ✍️ Random Dev Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Adityaz23&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 ---
-
-## 🔝 Top Contributions  
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Harsuji&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-## 🎶 Current Vibe  
-
-[![Wicked Games - The Weeknd](https://img.shields.io/badge/Now_Playing-Wicked_Games_🎧-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81)
-
----
+[![](https://visitcount.itsvg.in/api?id=Adityaz23&icon=4&color=0)](https://visitcount.itsvg.in)
 
 ✨ _Thanks for visiting! Drop a ⭐ on repositories you like._  
