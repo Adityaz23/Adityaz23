@@ -1,6 +1,6 @@
 # Hey there 👋, I'm **Aditya Soni**  
 
-💡 **Passionate Full-Stack Developer** | 🚀 Exploring **Rust, Actix, Node.js, Deno, React Native, Expo, Next.js, Hono** | 🌱 **MERN Stack Enthusiast**
+💡 **Passionate Full-Stack Developer** | 🚀 Exploring **Rust, Actix, Node.js, Deno, React Native, Expo, Next.js, Hono** | 🌱 **MERN Stack Enthusiast** | **WEB 3 Noobie**
 
 ---
 
