@@ -10,10 +10,14 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Passionate Full-Stack Developer** | 🚀 Exploring **Rust, Solana, Blockchain, Generative AI,  Node.js,  Deno, React Native, Expo, Next.js, Hono** | 🌱 **MERN Stack Enthusiast** | WEB 3 | Native developer.
+
+
+## 🧠 My Focus Areas
+- Web Development
 
 
 ## 📊 GitHub Stats & Trophies
@@ -50,7 +54,7 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/aditya-soni-83225a22b/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/AdityaS69610269" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/919131779289" target="_blank"></a> <a href="mailto:soniadityakumar651@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/aditya-soni-83225a22b/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/AdityaS69610269" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:soniadityakumar651@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -59,6 +63,6 @@
 </picture>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
