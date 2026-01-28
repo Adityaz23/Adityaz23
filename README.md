@@ -13,11 +13,26 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Passionate Full-Stack Developer** | 🚀 Exploring **Rust, Solana, Blockchain, Generative AI,  Node.js,  Deno, React Native, Expo, Next.js, Hono** | 🌱 **MERN Stack Enthusiast** | WEB 3 | Native developer.
+
+I’m a **passionate Full-Stack Developer** who loves building **modern, scalable, and production-ready applications**. I enjoy exploring how systems work under the hood — from APIs and databases to authentication, performance, and deployment.
+
+Recently, I’ve been diving deep into **modern backend tooling** like **Bun, Hono, Drizzle ORM, PostgreSQL, Docker**, and **production-grade authentication systems**. I actively experiment with replacing traditional stacks to understand **performance, developer experience, and scalability trade-offs**.
+
+On the frontend, I work extensively with **React, Next.js, Tailwind CSS**, and modern UI tooling to create clean, responsive, and accessible interfaces. I enjoy building full workflows — from database schema design to API validation and frontend integration.
+
+I’m also exploring **Rust, Solana & Web3**, **Blockchain concepts**, and **Generative AI**, while sharpening my skills in **system design, DevOps basics, and cloud-native development**. I believe in learning by building, breaking, and rebuilding things better.
+
+💡 *Always curious. Always building. Always leveling up.*
 
 
 ## 🧠 My Focus Areas
-- Web Development
+- Full-Stack Engineering with Modern Tooling
+- High-Performance & Edge-Ready Backends
+- Rust & Systems Programming Fundamentals
+- Blockchain, Solana & Web3 Development
+- Generative AI & Applied Machine Learning
+- Cloud-Native & DevOps Practices
+
 
 
 ## 📊 GitHub Stats & Trophies
