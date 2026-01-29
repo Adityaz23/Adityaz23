@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<!-- <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" /> -->
+ <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" /> 
 
 ## 📌 About Me
 
@@ -36,9 +36,8 @@ I’m also exploring **Rust, Solana , Web3 , React Native**, **Blockchain concep
 
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityaz23&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Adityaz23's GitHub Stats" width="49%" />
+## 📊 GitHub Contibution Stats 
+
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaz23&theme=nightowl&radius=10" alt="Adityaz23's Activity Graph" />
