@@ -20,7 +20,7 @@ Recently, I’ve been diving deep into **modern backend tooling** like **Bun, Ho
 
 On the frontend, I work extensively with **React, Next.js, Tailwind CSS**, and modern UI tooling to create clean, responsive, and accessible interfaces. I enjoy building full workflows — from database schema design to API validation and frontend integration.
 
-I’m also exploring **Rust, Solana & Web3**, **Blockchain concepts**, and **Generative AI**, while sharpening my skills in **system design, DevOps basics, and cloud-native development**. I believe in learning by building, breaking, and rebuilding things better.
+I’m also exploring **Rust, Solana , Web3 , React Native**, **Blockchain concepts**, and **Generative AI**, while sharpening my skills in **system design, DevOps practices, and cloud-native development** , *and I also love to develop cross OS Platform native mobile application* **using Expo, Expo SDK**. I believe in learning by building, breaking, and rebuilding things better.
 
 💡 *Always curious. Always building. Always leveling up.*
 
@@ -32,6 +32,7 @@ I’m also exploring **Rust, Solana & Web3**, **Blockchain concepts**, and **Gen
 - Blockchain, Solana & Web3 Development
 - Generative AI & Applied Machine Learning
 - Cloud-Native & DevOps Practices
+- React Native Cross Platform Mobile Development
 
 
 
@@ -70,12 +71,6 @@ I’m also exploring **Rust, Solana & Web3**, **Blockchain concepts**, and **Gen
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/aditya-soni-83225a22b/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/AdityaS69610269" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:soniadityakumar651@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-</picture>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
