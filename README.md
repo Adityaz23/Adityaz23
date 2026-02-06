@@ -45,35 +45,34 @@ I’m also exploring **Rust, Solana , Web3 , React Native**, **Blockchain concep
 
 
 ## 🛠️ Languages & Tools
+
 ## Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust&perline=7" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,c&perline=8" alt="Programming Languages" />
 </p>
 
 ## Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind,bootstrap&perline=7" alt="Frontend" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&perline=6" alt="Frontend" /> </p>
 
 ## Backend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring&perline=5" alt="Backend" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,bun,django&perline=4" alt="Backend" /> </p>
 
-## Database
+## Database & Caching
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,neon&perline=5" alt="Database" /> </p>
+
+## 🔐 Auth, Validation & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=4" alt="Database" />
+  <img src="https://skillicons.dev/icons?i=authjs,prisma,jwt&perline=3" />
 </p>
 
 ## DevOps & Cloud
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure&perline=4" alt="DevOps & Cloud" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,githubactions&perline=2" alt="DevOps" /> </p>
 
 ## Tools
 
