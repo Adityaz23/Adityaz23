@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Adityaz23">
-    <img src="https://komarev.com/ghpvc/?username=Adityaz23&label=Profile%20views&color=00FFFF&style=flat-square" alt="Adityaz23's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Adityaz23&label=Profile%20views&color=000000&style=circle" alt="Adityaz23's profile views" />
   </a>
 </p>
 
@@ -46,21 +46,21 @@ I’m also exploring **Rust, Solana , Web3 , React Native**, **Blockchain concep
 
 ## 🛠️ Languages & Tools
 
-## Programming Languages
+## 🧑‍💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,c&perline=8" alt="Programming Languages" />
 </p>
 
-## Frontend
+## 🎨 Frontend
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&perline=6" alt="Frontend" /> </p>
 
-## Backend
+## ⚙️ Backend
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,bun,django&perline=4" alt="Backend" /> </p>
 
-## Database & Caching
+## 🗄️ Database & Caching
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&perline=4" alt="Database" /> </p>
 
@@ -70,17 +70,18 @@ I’m also exploring **Rust, Solana , Web3 , React Native**, **Blockchain concep
   <img src="https://skillicons.dev/icons?i=authjs,prisma,jwt&perline=3" />
 </p>
 
-## DevOps & Cloud
+## 🚀 DevOps & Cloud
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=docker,githubactions&perline=2" alt="DevOps" /> </p>
 
-## Tools
+## 🧰 Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vite&perline=5" alt="Tools" />
 </p>
 
-> ## Top Languages
+## Top Languages
+
 <p align="center">
   <img src="https://github-readme-stats-khaki-kappa-63.vercel.app/api/top-langs/?username=Adityaz23&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
