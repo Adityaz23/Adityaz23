@@ -62,7 +62,7 @@ I’m also exploring **Rust, Solana , Web3 , React Native**, **Blockchain concep
 
 ## Database & Caching
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,neon&perline=5" alt="Database" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&perline=4" alt="Database" /> </p>
 
 ## 🔐 Auth, Validation & Tooling
 
