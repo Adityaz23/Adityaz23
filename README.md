@@ -83,7 +83,7 @@ I’m also exploring **Rust, Solana , Web3 , React Native**, **Blockchain concep
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-khaki-kappa-63.vercel.app/api/top-langs/?username=Adityaz23&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats-omega-ebon-27.vercel.app/api/top-langs/?username=Adityaz23&layout=compact&theme=nightowl&hide_border=true&langs_count=10" />
 </p>
 
 ## 🔗 Connect with Me
