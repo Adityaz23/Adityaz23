@@ -1,95 +1,141 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aditya%20Kumar%20Soni&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aditya%20Kumar%20Soni&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20LLM%20Engineer%20|%20Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=beige&center=true&vCenter=true&width=650&lines=Stay%20Hungry%2C%20Stay%20Foolish%20to%20try%20new%20things." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=beige&center=true&vCenter=true&width=650&lines=Building%20AI-Powered%20Systems%20%F0%9F%A7%A0;Full-Stack%20Developer%20%7C%20LLM%20Enthusiast;Stay%20Hungry%2C%20Stay%20Foolish." />
 </p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Adityaz23">
-    <img src="https://komarev.com/ghpvc/?username=Adityaz23&label=Profile%20views&color=000000&style=circle" alt="Adityaz23's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Adityaz23&label=Profile%20views&color=000000&style=circle" />
   </a>
 </p>
 
- <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" /> 
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" />
 
-## 📌 About Me
+---
 
-I’m a **passionate Full-Stack Developer** who loves building **modern, scalable, and production-ready applications**. I enjoy exploring how systems work under the hood — from APIs and databases to authentication, performance, and deployment.
+## 🚀 About Me
 
-Recently, I’ve been diving deep into **modern backend tooling** like **Bun, Hono, Drizzle ORM, PostgreSQL, Docker**, and **production-grade authentication systems**. I actively experiment with replacing traditional stacks to understand **performance, developer experience, and scalability trade-offs**.
+I’m an **AI Engineer | LLM Engineer | Full-Stack Developer** focused on building **intelligent, scalable, and production-ready applications**.
 
-On the frontend, I work extensively with **React, Next.js, Tailwind CSS**, and modern UI tooling to create clean, responsive, and accessible interfaces. I enjoy building full workflows — from database schema design to API validation and frontend integration.
+My work sits at the intersection of **software engineering and AI systems**, where I design and build applications powered by **Large Language Models (LLMs), backend systems, and modern web technologies**.
 
-I’m also exploring **Rust, Solana , Web3 , React Native**, **Blockchain concepts**, and **Generative AI**, while sharpening my skills in **system design, DevOps practices, and cloud-native development** , *and I also love to develop cross OS Platform native mobile application* **using Expo, Expo SDK**. I believe in learning by building, breaking, and rebuilding things better.
+I enjoy going beyond surface-level implementation — diving into **how systems actually work**, optimizing for **performance, scalability, and real-world usability**.
 
-💡 *Always curious. Always building. Always leveling up.*
+---
 
+### 🧠 What I’m Currently Building & Exploring
 
-## 🧠 My Focus Areas
-- Full-Stack Engineering with Modern Tooling
-- High-Performance & Edge-Ready Backends
-- Rust & Systems Programming Fundamentals
-- Blockchain, Solana & Web3 Development
+- 🤖 **LLM Applications** (RAG, Agents, Prompt Engineering, AI APIs)
+- ⚡ **High-Performance Backends** using Bun, Hono & Node.js
+- 🗄️ **Database Design** with PostgreSQL, Redis & Drizzle ORM
+- 🧩 **System Design & Scalable Architectures**
+- ☁️ **Cloud & DevOps** (Docker, CI/CD, deployment pipelines)
+- 📱 **Cross-Platform Apps** using React Native & Expo
+- 🤖 **AI-Based Application** building real world AI based application
+- 🧬 Exploring **Rust, Web3, Solana & Blockchain Systems**
+
+---
+
+## 🎯 Focus Areas
+
+- AI Engineering & LLM-Based Systems
+- Full-Stack Development (MERN + Modern Stack)
+- Backend Performance & API Design
 - Generative AI & Applied Machine Learning
-- Cloud-Native & DevOps Practices
-- React Native Cross Platform Mobile Development
+- System Design & Scalable Architectures
+- DevOps & Cloud-Native Development
 
+---
 
-
-## 📊 GitHub Contibution Stats 
-
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaz23&theme=nightowl&radius=10" alt="Adityaz23's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-## 🧑‍💻 Programming Languages
+## 📊 GitHub Contribution Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,c&perline=8" alt="Programming Languages" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaz23&theme=nightowl&radius=10" />
 </p>
 
-## 🎨 Frontend
+---
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&perline=6" alt="Frontend" /> </p>
+## 🛠️ Tech Stack
 
-## ⚙️ Backend
+### 🧑‍💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,c&perline=8" />
+</p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,bun,django&perline=4" alt="Backend" /> </p>
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&perline=6" />
+</p>
 
-## 🗄️ Database & Caching
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,django&perline=4" />
+</p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&perline=4" alt="Database" /> </p>
+## 🧠 AI / LLM Stack
 
-## 🔐 Auth, Validation & Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&perline=6" />
+</p>
 
+<p align="center">
+  <b>Building Intelligent Systems with Modern AI Tools</b>
+</p>
+
+<p align="center">
+  🤖 LLM APIs (OpenAI, etc.) &nbsp; • &nbsp;
+  🧠 Prompt Engineering &nbsp; • &nbsp;
+  📚 RAG (Retrieval-Augmented Generation) <br/>
+  ⚙️ AI Agents & Workflows &nbsp; • &nbsp;
+  🔍 Vector Search & Embeddings
+</p>
+
+### 🗄️ Database & Caching
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&perline=4" />
+</p>
+
+### 🔐 Auth & Tooling
 <p align="center">
   <img src="https://skillicons.dev/icons?i=authjs,prisma,jwt&perline=3" />
 </p>
 
-## 🚀 DevOps & Cloud
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=docker,githubactions&perline=2" alt="DevOps" /> </p>
-
-## 🧰 Tools
-
+### 🚀 DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vite&perline=5" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions&perline=2" />
 </p>
 
-## Top Languages
+### 🧰 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vite&perline=5" />
+</p>
 
+---
+
+## 📈 Top Languages
 <p align="center">
   <img src="https://github-readme-stats-omega-ebon-27.vercel.app/api/top-langs/?username=Adityaz23&layout=compact&theme=nightowl&hide_border=true&langs_count=10" />
 </p>
 
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/aditya-soni-83225a22b/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/AdityaS69610269" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:soniadityakumar651@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-soni-83225a22b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" />
+  </a>
+  <a href="https://x.com/AdityaS69610269" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40" />
+  </a>
+  <a href="mailto:soniadityakumar651@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" />
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 </div>
-
