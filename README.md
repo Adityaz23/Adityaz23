@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aditya%20Kumar%20Soni&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20LLM%20Engineer%20|%20Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=beige&center=true&vCenter=true&width=650&lines=Building%20AI-Powered%20Systems%20%F0%9F%A7%A0;Full-Stack%20Developer%20%7C%20LLM%20Enthusiast;Stay%20Hungry%2C%20Stay%20Foolish." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=beige&center=true&vCenter=true&width=650&lines=Building%20AI-Powered%20Systems%20%F0%9F%A7%A0;Full-Stack%20Developer%20%7C%20LLM%20Engineer;Stay%20Hungry%2C%20Stay%20Foolish." />
 </p>
 
 <p align="center">
