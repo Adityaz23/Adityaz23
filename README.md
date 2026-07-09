@@ -1,16 +1,41 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aditya%20Kumar%20Soni&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20LLM%20Engineer%20|%20Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=beige&center=true&vCenter=true&width=650&lines=Building%20AI-Powered%20Systems%20%F0%9F%A7%A0;Full-Stack%20Developer%20%7C%20LLM%20Engineer;Stay%20Hungry%2C%20Stay%20Foolish." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=beige&center=true&vCenter=true&width=650&lines=Building%20AI-Powered%20Systems%20%F0%9F%A7%A0;Full-Stack%20Developer%20%7C%20LLM%20Engineer;Shipping%20Real%20Products%2C%20Not%20Just%20Demos%20%F0%9F%9A%80" />
 </p>
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Adityaz23">
-    <img src="https://komarev.com/ghpvc/?username=Adityaz23&label=Profile%20views&color=000000&style=circle" />
+    <img src="https://komarev.com/ghpvc/?username=Adityaz23&label=Profile%20views&color=000000&style=flat" />
   </a>
+  <img src="https://img.shields.io/badge/Open_to_Work-brightgreen?style=flat" alt="Open to Work"/>
 </p>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" />
+<p align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                         AI ENGINEER TERMINAL                        ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ $ whoami                                                            ║
+║ Aditya Kumar Soni                                                   ║
+║                                                                     ║
+║ $ stack                                                             ║
+║ AI • LLM • RAG • Next.js • Python • TypeScript                      ║
+║                                                                     ║
+║ $ current_status                                                    ║
+║ Building intelligent systems... ████████████░░ 82%                  ║
+║                                                                     ║
+║ $ models                                                            ║
+║ Llama • Qwen • Gemma • GPT • DeepSeek                               ║
+║                                                                     ║
+║ $ mission                                                           ║
+║ > Ship products. Solve problems. Learn endlessly.                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+status%3A+building+AI-powered+products+%F0%9F%9A%80;%3E+learning%3A+LLMs+%7C+RAG+%7C+Agentic+AI+%F0%9F%A7%A0;%3E+shipping%3A+Next.js+%2B+TypeScript+%2B+Python;%3E+working+with%3A+LangChain+%7C+Supabase+%7C+PostgreSQL;%3E+deploying%3A+Docker+%7C+Vercel+%7C+Hugging+Face;%3E+building+AI+agents+with+tools+and+memory+%F0%9F%A4%96;%3E+vector+databases+%7C+embeddings+%7C+semantic+search;%3E+experimenting+with+Llama+%7C+Qwen+%7C+Gemma+%7C+GPT;%3E+currently+debugging+something+that+worked+yesterday+%F0%9F%98%85;%3E+probably+drinking+chai+%E2%98%95" />
+</p>
 
 ---
 
