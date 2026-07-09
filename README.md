@@ -14,6 +14,12 @@
 
 ---
 
+## 💻 Professional Summary
+
+Software Engineer with expertise in **Full-Stack Development** and a growing specialization in **AI**, **Data Science**, and **Generative AI**. **Experienced** in building scalable **web applications**, **AI-powered products**, and **LLM-integrated solutions** using **React**, **Next.js**, **Node.js**, **Python**, **TypeScript**, and modern AI frameworks. Strong foundation in **algorithms**, **databases**, and **backend engineering**, complemented by hands-on experience with **RAG**, **prompt engineering**, and **machine learning** workflows. Passionate about **solving real-world problems** through data-driven and **AI-powered applications** while continuously learning and contributing to modern software development.
+
+---
+
 ## 🚀 About Me
 
 I’m an **AI Engineer | LLM Engineer | Full-Stack Developer** focused on building **intelligent, scalable, and production-ready applications**.
