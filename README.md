@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/Open_to_Work-brightgreen?style=flat" alt="Open to Work"/>
 </p>
 
-<p align="center">
+<div align="center">
+<pre>
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -31,7 +32,9 @@
 ║ > Ship products. Solve problems. Learn endlessly.                   ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
-</p>
+
+</pre>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+status%3A+building+AI-powered+products+%F0%9F%9A%80;%3E+learning%3A+LLMs+%7C+RAG+%7C+Agentic+AI+%F0%9F%A7%A0;%3E+shipping%3A+Next.js+%2B+TypeScript+%2B+Python;%3E+working+with%3A+LangChain+%7C+Supabase+%7C+PostgreSQL;%3E+deploying%3A+Docker+%7C+Vercel+%7C+Hugging+Face;%3E+building+AI+agents+with+tools+and+memory+%F0%9F%A4%96;%3E+vector+databases+%7C+embeddings+%7C+semantic+search;%3E+experimenting+with+Llama+%7C+Qwen+%7C+Gemma+%7C+GPT;%3E+currently+debugging+something+that+worked+yesterday+%F0%9F%98%85;%3E+probably+drinking+chai+%E2%98%95" />
