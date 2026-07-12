@@ -1,21 +1,21 @@
-<svg width="800" height="460" viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Monaco, 'Courier New', monospace">
+<svg width="800" height="750" viewBox="0 0 800 750" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Monaco, 'Courier New', monospace">
   <defs>
     <linearGradient id="barFill" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#58a6ff"/>
       <stop offset="100%" stop-color="#3fb950"/>
     </linearGradient>
     <clipPath id="round">
-      <rect x="0" y="0" width="800" height="460" rx="12"/>
+      <rect x="0" y="0" width="800" height="750" rx="12"/>
     </clipPath>
   </defs>
 
   <!-- hidden master timer that all line reveals sync against, so the whole thing loops -->
   <rect x="0" y="0" width="1" height="1" opacity="0">
-    <animate id="cycle" attributeName="opacity" from="0" to="0" dur="13s" begin="0s;cycle.end"/>
+    <animate id="cycle" attributeName="opacity" from="0" to="0" dur="15.2s" begin="0s;cycle.end"/>
   </rect>
 
   <g clip-path="url(#round)">
-    <rect x="0" y="0" width="800" height="460" fill="#0d1117"/>
+    <rect x="0" y="0" width="800" height="750" fill="#0d1117"/>
     <rect x="0" y="0" width="800" height="40" fill="#161b22"/>
     <line x1="0" y1="40" x2="800" y2="40" stroke="#30363d" stroke-width="1"/>
 
@@ -30,65 +30,117 @@
       $ whoami
     </text>
     <text x="24" y="94" font-size="15" fill="#c9d1d9" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+0.9s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+0.8s" fill="freeze"/>
       Aditya Kumar Soni
     </text>
 
-    <!-- $ stack -->
+    <!-- $ role -->
     <text x="24" y="142" font-size="15" fill="#58a6ff" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+2.0s" fill="freeze"/>
-      $ stack
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+1.5s" fill="freeze"/>
+      $ role
     </text>
-    <text x="24" y="166" font-size="14" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+2.6s" fill="freeze"/>
-      <tspan fill="#79c0ff">AI</tspan><tspan fill="#8b949e"> • </tspan>
-      <tspan fill="#d2a8ff">LLM</tspan><tspan fill="#8b949e"> • </tspan>
-      <tspan fill="#ffa657">RAG</tspan><tspan fill="#8b949e"> • </tspan>
-      <tspan fill="#7ee787">Next.js</tspan><tspan fill="#8b949e"> • </tspan>
-      <tspan fill="#79c0ff">Python</tspan><tspan fill="#8b949e"> • </tspan>
-      <tspan fill="#d2a8ff">TypeScript</tspan>
+    <text x="24" y="166" font-size="13.5" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+2.0s" fill="freeze"/>
+      Full Stack AI Engineer, Full Stack Developer,
+    </text>
+    <text x="24" y="188" font-size="13.5" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+2.5s" fill="freeze"/>
+      Software Engineer — Full Stack, Generative AI Developer
     </text>
 
-    <!-- $ current_status -->
-    <text x="24" y="214" font-size="15" fill="#58a6ff" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+3.8s" fill="freeze"/>
-      $ current_status
+    <!-- $ stack -->
+    <text x="24" y="238" font-size="15" fill="#58a6ff" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+3.2s" fill="freeze"/>
+      $ stack
     </text>
-    <text x="24" y="238" font-size="14" fill="#c9d1d9" opacity="0">
+    <text x="24" y="262" font-size="14" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+3.7s" fill="freeze"/>
+      <tspan fill="#79c0ff">Python</tspan><tspan fill="#8b949e"> • </tspan>
+      <tspan fill="#d2a8ff">TypeScript</tspan><tspan fill="#8b949e"> • </tspan>
+      <tspan fill="#7ee787">Next.js</tspan><tspan fill="#8b949e"> • </tspan>
+      <tspan fill="#ffa657">FastAPI</tspan><tspan fill="#8b949e"> • </tspan>
+      <tspan fill="#79c0ff">LangChain</tspan>
+    </text>
+
+    <!-- $ ai -->
+    <text x="24" y="310" font-size="15" fill="#58a6ff" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+4.4s" fill="freeze"/>
-      Building intelligent systems...
+      $ ai
     </text>
-    <rect x="330" y="228" width="210" height="14" rx="7" fill="#21262d"/>
-    <rect x="330" y="228" height="14" rx="7" fill="url(#barFill)" width="0">
-      <animate attributeName="width" from="0" to="172" dur="1.4s" begin="cycle.begin+4.4s" fill="freeze"/>
+    <text x="24" y="334" font-size="14" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+4.9s" fill="freeze"/>
+      <tspan fill="#c9d1d9">RAG </tspan><tspan fill="#3fb950">✓</tspan><tspan fill="#8b949e"> • </tspan>
+      <tspan fill="#c9d1d9">Agents </tspan><tspan fill="#3fb950">✓</tspan><tspan fill="#8b949e"> • </tspan>
+      <tspan fill="#c9d1d9">MCP </tspan><tspan fill="#3fb950">✓</tspan><tspan fill="#8b949e"> • </tspan>
+      <tspan fill="#c9d1d9">Tool Calling </tspan><tspan fill="#3fb950">✓</tspan><tspan fill="#8b949e"> • </tspan>
+      <tspan fill="#c9d1d9">Vector Search </tspan><tspan fill="#3fb950">✓</tspan>
+    </text>
+
+    <!-- $ deploy -->
+    <text x="24" y="382" font-size="15" fill="#58a6ff" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+5.6s" fill="freeze"/>
+      $ deploy
+    </text>
+    <text x="24" y="406" font-size="14" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+6.1s" fill="freeze"/>
+      <tspan fill="#79c0ff">Docker</tspan><tspan fill="#8b949e"> • </tspan>
+      <tspan fill="#d2a8ff">Vercel</tspan><tspan fill="#8b949e"> • </tspan>
+      <tspan fill="#7ee787">Supabase</tspan>
+    </text>
+
+    <!-- $ currently_building -->
+    <text x="24" y="454" font-size="15" fill="#58a6ff" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+6.8s" fill="freeze"/>
+      $ currently_building
+    </text>
+    <text x="24" y="478" font-size="14" fill="#ffa657" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+7.3s" fill="freeze"/>
+      AI Job Agent
+    </text>
+
+    <!-- $ status -->
+    <text x="24" y="526" font-size="15" fill="#58a6ff" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+8.0s" fill="freeze"/>
+      $ status
+    </text>
+    <text x="24" y="550" font-size="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+8.5s" fill="freeze"/>
+      Loading knowledge...
+    </text>
+
+    <!-- ticker: types in sequentially and stays visible, left of the bar -->
+    <text x="24" y="574" font-size="12" font-style="italic" fill="#8b949e" xml:space="preserve"><tspan opacity="0">Tokenization<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+8.6s" fill="freeze"/></tspan><tspan opacity="0"> • <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="cycle.begin+8.9s" fill="freeze"/></tspan><tspan opacity="0">Attention<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+9.1s" fill="freeze"/></tspan><tspan opacity="0"> • <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="cycle.begin+9.4s" fill="freeze"/></tspan><tspan opacity="0">Embeddings<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+9.6s" fill="freeze"/></tspan></text>
+
+    <rect x="330" y="563" width="210" height="14" rx="7" fill="#21262d"/>
+    <rect x="330" y="563" height="14" rx="7" fill="url(#barFill)" width="0">
+      <animate attributeName="width" from="0" to="210" dur="1.3s" begin="cycle.begin+8.6s" fill="freeze"/>
     </rect>
-    <text x="550" y="239" font-size="12" fill="#c9d1d9" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+5.8s" fill="freeze"/>
+    <text x="555" y="574" font-size="12" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+9.9s" fill="freeze"/>
       100%
     </text>
 
-    <!-- $ models -->
-    <text x="24" y="286" font-size="15" fill="#58a6ff" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+6.4s" fill="freeze"/>
-      $ models
-    </text>
-    <text x="24" y="310" font-size="14" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+7.0s" fill="freeze"/>
-      <tspan fill="#79c0ff">Llama</tspan><tspan fill="#8b949e"> • </tspan>
-      <tspan fill="#d2a8ff">Qwen</tspan><tspan fill="#8b949e"> • </tspan>
-      <tspan fill="#ffa657">Gemma</tspan><tspan fill="#8b949e"> • </tspan>
-      <tspan fill="#7ee787">GPT</tspan><tspan fill="#8b949e"> • </tspan>
-      <tspan fill="#79c0ff">DeepSeek</tspan>
-    </text>
-
     <!-- $ mission -->
-    <text x="24" y="358" font-size="15" fill="#58a6ff" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+8.2s" fill="freeze"/>
+    <text x="24" y="622" font-size="15" fill="#58a6ff" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+10.6s" fill="freeze"/>
       $ mission
     </text>
-    <text x="24" y="382" font-size="14" fill="#3fb950" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+8.8s" fill="freeze"/>
-      &gt; Ship products. Solve problems. Learn endlessly.
+    <text x="24" y="646" font-size="14" fill="#3fb950" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+11.1s" fill="freeze"/>
+      &gt; Build useful AI products.
     </text>
+    <text x="24" y="670" font-size="14" fill="#3fb950" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+11.6s" fill="freeze"/>
+      &gt; Automate repetitive work.
+    </text>
+    <text x="24" y="694" font-size="14" fill="#3fb950" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+12.1s" fill="freeze"/>
+      &gt; Learn in public.
+    </text>
+
+    <!-- blinking cursor -->
+    <rect x="170" y="681" width="9" height="16" fill="#3fb950">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
   </g>
 </svg>
