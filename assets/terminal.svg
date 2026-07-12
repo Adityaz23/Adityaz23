@@ -90,8 +90,9 @@
       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="cycle.begin+8.8s" fill="freeze"/>
       &gt; Ship products. Solve problems. Learn endlessly.
     </text>
-
-    <!-- blinking cursor -->
+  </g>
+  <g>
+      <!-- blinking cursor -->
     <rect x="386" y="369" width="9" height="16" fill="#3fb950">
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="0.9s" repeatCount="indefinite"/>
     </rect>
