@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/aditya_soni_terminal_sky.gif" alt="Aditya Kumar Soni"/>
+<img src="assets/animation_banner.svg" alt="Aditya Kumar Soni"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=beige&center=true&vCenter=true&width=650&lines=Building%20AI-Powered%20Systems%20%F0%9F%A7%A0;Full-Stack%20Developer%20%7C%20LLM%20Engineer;Shipping%20Real%20Products%2C%20Not%20Just%20Demos%20%F0%9F%9A%80" />
@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-<img src="assets/terminal.svg" alt="Animated terminal" width="700" />
+<img src="assets/terminal.svg" alt="Animated terminal"/>
 </div>
 
 ---
