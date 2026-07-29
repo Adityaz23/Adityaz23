@@ -124,7 +124,7 @@ I enjoy going beyond surface-level implementation — diving into **how systems 
 
 ## 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats-omega-ebon-27.vercel.app/api/top-langs/?username=Adityaz23&layout=compact&theme=nightowl&hide_border=true&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaz23&layout=compact&theme=nightowl&hide_border=true&langs_count=10" />
 </p>
 
 ---
