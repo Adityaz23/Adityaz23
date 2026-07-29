@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 <p align="center">
 <img src="assets/animation_banner.svg" alt="Aditya Kumar Soni"/>
 </p>
@@ -124,8 +126,10 @@ I enjoy going beyond surface-level implementation — diving into **how systems 
 
 ## 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaz23&layout=compact&theme=nightowl&hide_border=true&langs_count=10" />
+  <img src="https://github-readme-stats-eight-topaz.vercel.app/api/top-langs/?username=Adityaz23&layout=compact&theme=nightowl&hide_border=true&langs_count=10" />
 </p>
+
+> **Note:** GitHub stats badges are served by community-run instances and can occasionally rate-limit. If this one ever breaks, the most reliable long-term fix is deploying your own copy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to Vercel with your own token (one-click "Deploy" button on that repo).
 
 ---
 
@@ -144,6 +148,18 @@ I enjoy going beyond surface-level implementation — diving into **how systems 
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=beige&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+great+together." />
+</p>
+
+<p align="center">
+  <a href="#readme-top">⬆️ Back to top</a>
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
