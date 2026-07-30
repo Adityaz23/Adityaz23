@@ -19,12 +19,6 @@
 
 ---
 
-## 💻 Professional Summary
-
-Software Engineer with expertise in **Full-Stack Development** and a growing specialization in **AI**, **Data Science**, and **Generative AI**. **Experienced** in building scalable **web applications**, **AI-powered products**, and **LLM-integrated solutions** using **React**, **Next.js**, **Node.js**, **Python**, **TypeScript**, and modern AI frameworks. Strong foundation in **algorithms**, **databases**, and **backend engineering**, complemented by hands-on experience with **RAG**, **prompt engineering**, and **machine learning** workflows. Passionate about **solving real-world problems** through data-driven and **AI-powered applications** while continuously learning and contributing to modern software development.
-
----
-
 ## 🚀 About Me
 
 I’m an **AI Engineer | LLM Engineer | Full-Stack Developer** focused on building **intelligent, scalable, and production-ready applications**.
@@ -62,7 +56,7 @@ I enjoy going beyond surface-level implementation — diving into **how systems 
 ## 📊 GitHub Contribution Stats
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaz23&theme=nightowl&radius=10" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaz23&theme=tokyo-night"/>
 </p>
 
 ---
@@ -123,13 +117,9 @@ I enjoy going beyond surface-level implementation — diving into **how systems 
 </p>
 
 ---
-
-## 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats-eight-topaz.vercel.app/api/top-langs/?username=Adityaz23&layout=compact&theme=nightowl&hide_border=true&langs_count=10" />
-</p>
-
-> **Note:** GitHub stats badges are served by community-run instances and can occasionally rate-limit. If this one ever breaks, the most reliable long-term fix is deploying your own copy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to Vercel with your own token (one-click "Deploy" button on that repo).
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaz23&layout=compact&theme=nightowl&hide_border=true&langs_count=10" /> -->
+<!-- </p> -->
 
 ---
 
