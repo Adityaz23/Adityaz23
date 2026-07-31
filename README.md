@@ -21,43 +21,73 @@
 
 ## 🚀 About Me
 
-I’m an **AI Engineer | LLM Engineer | Full-Stack Developer** focused on building **intelligent, scalable, and production-ready applications**.
+I'm an **AI Engineer | LLM Engineer | Full-Stack Developer** who builds intelligent, production-ready applications — not just notebooks and demos.
 
-My work sits at the intersection of **software engineering and AI systems**, where I design and build applications powered by **Large Language Models (LLMs), backend systems, and modern web technologies**.
+My work sits at the intersection of **software engineering and AI systems**: RAG pipelines, LLM-powered agents, and full-stack apps backed by scalable databases and clean architecture. I like going past the surface-level implementation to understand **how systems actually work under the hood**, optimizing for performance and real-world usability.
 
-I enjoy going beyond surface-level implementation — diving into **how systems actually work**, optimizing for **performance, scalability, and real-world usability**.
+Currently exploring **Rust, Web3, Solana, and blockchain systems** on the side.
 
----
-
-### 🧠 What I’m Currently Building & Exploring
-
-- 🤖 **LLM Applications** (RAG, Agents, Prompt Engineering, AI APIs)
-- ⚡ **High-Performance Backends** using Bun, Hono & Node.js
-- 🗄️ **Database Design** with PostgreSQL, Redis & Drizzle ORM
-- 🧩 **System Design & Scalable Architectures**
-- ☁️ **Cloud & DevOps** (Docker, CI/CD, deployment pipelines)
-- 📱 **Cross-Platform Apps** using React Native & Expo
-- 🤖 **AI-Based Application** building real world AI based application
-- 🧬 Exploring **Rust, Web3, Solana & Blockchain Systems**
+📄 **Open to:** AI/LLM Engineering & Full-Stack roles (Remote / Hybrid) — feel free to reach out below.
 
 ---
 
-## 🎯 Focus Areas
+## 🧠 Currently Building & Exploring
 
-- AI Engineering & LLM-Based Systems
-- Full-Stack Development (MERN + Modern Stack)
-- Backend Performance & API Design
-- Generative AI & Applied Machine Learning
-- System Design & Scalable Architectures
-- DevOps & Cloud-Native Development
+- 🤖 **LLM Applications** — RAG pipelines, AI agents, prompt engineering
+- ⚡ **High-Performance Backends** — Bun, Hono, Node.js
+- 🗄️ **Database Design** — PostgreSQL, Redis, Drizzle ORM, Convex
+- ☁️ **Cloud & DevOps** — Docker, CI/CD, deployment pipelines
+- 📱 **Cross-Platform Apps** — React Native & Expo
+- 🧬 **Exploring** — Rust, Web3, Solana & blockchain systems
 
 ---
 
-## 📊 GitHub Contribution Stats
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaz23&theme=tokyo-night"/>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 📚 [Semantic Book Recommender](https://github.com/Adityaz23/books-recommendation)
+Discover your next favorite book using AI-powered **semantic search**, emotional-tone filtering, and category-based recommendations. Query in plain English (e.g. *"a dark fantasy with complex world-building"*) and get ranked matches with cover art, previews, and buy links.
+
+**Tech:** LangChain · ChromaDB · HuggingFace Embeddings · Gradio · Python
+
+🔗 [Live Demo](https://huggingface.co/spaces/Adityaz23/book-recommendation)
+
+</td>
+<td width="50%">
+
+### 🎥 [AI Video Assistant](https://github.com/Adityaz23/Video-Transcriber)
+Turns any meeting video, YouTube link, or audio file into a clean transcript, AI summary, action items, key decisions — plus a **RAG-powered chat** interface to ask questions about the content. Supports English (local Whisper) and Hinglish (Sarvam AI).
+
+**Tech:** Faster-Whisper · Groq (Llama 3.3) · LangChain · ChromaDB · Streamlit
+
+🔗 [Live Demo](https://video-transcribe.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✍️ [Blog Intel](https://github.com/Adityaz23/Blog-intel)
+A modern full-stack blogging platform with secure authentication and **real-time data updates**. Built on the Next.js App Router for a scalable, responsive experience with instant UI feedback.
+
+**Tech:** Next.js 16 · Convex (real-time backend) · better-auth · TypeScript · Tailwind CSS
+
+🔗 [Live Demo](https://blog-intel.vercel.app/)
+
+</td>
+<td width="50%">
+
+### 💼 [JobSearch](https://github.com/Adityaz23/JobSearch) <img src="https://img.shields.io/badge/status-in--progress-yellow?style=flat-square" />
+A job search platform in active development, built on Next.js with a Supabase-backed database layer for storing and querying listings.
+
+**Tech:** Next.js · Supabase · TypeScript
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -78,22 +108,13 @@ I enjoy going beyond surface-level implementation — diving into **how systems 
   <img src="https://skillicons.dev/icons?i=nodejs,express,bun,django&perline=4" />
 </p>
 
-## 🧠 AI / LLM Stack
-
+### 🧠 AI / LLM Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&perline=6" />
-</p>
-
-<p align="center">
-  <b>Building Intelligent Systems with Modern AI Tools</b>
-</p>
-
-<p align="center">
-  🤖 LLM APIs (OpenAI, etc.) &nbsp; • &nbsp;
+  🤖 LLM APIs (Groq, OpenAI) &nbsp; • &nbsp;
   🧠 Prompt Engineering &nbsp; • &nbsp;
   📚 RAG (Retrieval-Augmented Generation) <br/>
-  ⚙️ AI Agents & Workflows &nbsp; • &nbsp;
-  🔍 Vector Search & Embeddings
+  ⚙️ LangChain &nbsp; • &nbsp;
+  🔍 Vector Search & Embeddings (ChromaDB, HuggingFace)
 </p>
 
 ### 🗄️ Database & Caching
@@ -117,9 +138,21 @@ I enjoy going beyond surface-level implementation — diving into **how systems 
 </p>
 
 ---
-<!-- <p align="center"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaz23&layout=compact&theme=nightowl&hide_border=true&langs_count=10" /> -->
-<!-- </p> -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adityaz23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaz23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityaz23&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaz23&theme=tokyo-night"/>
+</p>
 
 ---
 
