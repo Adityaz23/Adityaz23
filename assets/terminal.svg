@@ -127,11 +127,11 @@
     <!-- ticker: types in sequentially and stays visible, left of the bar -->
     <text x="24" y="574" font-size="12" font-style="italic" fill="#8b949e" xml:space="preserve"><tspan opacity="0">Tokenization<animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="cycle.begin+4.3s" fill="freeze"/></tspan><tspan opacity="0"> • <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="cycle.begin+4.45s" fill="freeze"/></tspan><tspan opacity="0">Attention<animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="cycle.begin+4.55s" fill="freeze"/></tspan><tspan opacity="0"> • <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="cycle.begin+4.7s" fill="freeze"/></tspan><tspan opacity="0">Embeddings<animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="cycle.begin+4.8s" fill="freeze"/></tspan></text>
 
-    <rect x="330" y="563" width="210" height="14" rx="7" fill="#21262d"/>
-    <rect x="330" y="563" height="14" rx="7" fill="url(#barFill)" width="0">
-      <animate attributeName="width" from="0" to="210" dur="0.65s" begin="cycle.begin+4.3s" fill="freeze"/>
+    <rect x="290" y="563" width="170" height="14" rx="7" fill="#21262d"/>
+    <rect x="290" y="563" height="14" rx="7" fill="url(#barFill)" width="0">
+      <animate attributeName="width" from="0" to="170" dur="0.65s" begin="cycle.begin+4.3s" fill="freeze"/>
     </rect>
-    <text x="555" y="574" font-size="12" fill="#c9d1d9" opacity="0">
+    <text x="475" y="574" font-size="12" fill="#c9d1d9" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="cycle.begin+4.95s" fill="freeze"/>
       100%
     </text>
