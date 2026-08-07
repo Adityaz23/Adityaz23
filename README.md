@@ -14,8 +14,14 @@
 </p>
 
 <div align="center">
-<img src="assets/terminal.svg" alt="Animated terminal"/>
+<img src="assets/whoami_animated.svg" alt="whoami terminal"/>
 </div>
+<br />
+<br />
+
+<div align="center">
+<img src="assets/terminal.svg" alt="Animated terminal"/>
+</div> 
 
 ---
 
