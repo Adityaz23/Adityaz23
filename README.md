@@ -13,11 +13,8 @@
   <img src="https://img.shields.io/badge/Open_to_Work-brightgreen?style=flat" alt="Open to Work"/>
 </p>
 
-<div align="center">
-<img src="assets/whoami_animated.svg" alt="whoami terminal"/>
-</div>
-<br />
-<br />
+<!-- <br /> -->
+<!-- <br /> -->
 
 <div align="center">
 <img src="assets/terminal.svg" alt="Animated terminal"/>
