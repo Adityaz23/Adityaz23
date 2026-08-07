@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="470" viewBox="0 0 880 470" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111722"/>
+      <stop offset="1" stop-color="#0a0e17"/>
+    </linearGradient>
+    <linearGradient id="rimGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <clipPath id="photoClip"><rect x="40" y="55" width="320" height="320" rx="16"/></clipPath>
+  </defs>
+
+  <rect width="880" height="470" rx="12" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="879" height="469" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+  <line x1="0" y1="30" x2="880" y2="30" stroke="#30363d"/>
+  <circle cx="20" cy="15" r="5" fill="#ff5f56"/>
+  <circle cx="36" cy="15" r="5" fill="#ffbd2e"/>
+  <circle cx="52" cy="15" r="5" fill="#27c93f"/>
+  <text x="440" y="19" fill="#7d8590" font-size="12" text-anchor="middle">aditya@github: ~$ ./whoami.sh</text>
+
+  <!-- left panel: original silhouette avatar, fades in like the photo did -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.5s" fill="freeze"/>
+    <rect x="36" y="51" width="328" height="328" rx="18" fill="none" stroke="url(#rimGrad)" stroke-width="2"/>
+    <g clip-path="url(#photoClip)">
+      <rect x="40" y="55" width="320" height="320" fill="#0d1420"/>
+      <!-- faint city glow dots -->
+      <g opacity="0.5">
+        <rect x="70" y="90" width="4" height="4" fill="#22d3ee"/>
+        <rect x="110" y="120" width="3" height="3" fill="#a855f7"/>
+        <rect x="320" y="100" width="4" height="4" fill="#4ade80"/>
+        <rect x="330" y="150" width="3" height="3" fill="#22d3ee"/>
+        <rect x="80" y="300" width="3" height="3" fill="#a855f7"/>
+        <rect x="320" y="310" width="4" height="4" fill="#22d3ee"/>
+      </g>
+      <!-- hooded silhouette -->
+      <g filter="none">
+        <path d="M120 380 C120 300 150 265 200 265 C250 265 280 300 280 380 Z" fill="#0d1420" stroke="url(#rimGrad)" stroke-width="2"/>
+        <path d="M160 235 C160 185 175 150 200 150 C225 150 240 185 240 235 C240 260 220 275 200 275 C180 275 160 260 160 235 Z" fill="#0d1420" stroke="url(#rimGrad)" stroke-width="2"/>
+        <rect x="172" y="210" width="56" height="10" rx="5" fill="#22d3ee" opacity="0.85"/>
+        <path d="M168 165 C180 140 220 140 232 165" fill="none" stroke="url(#rimGrad)" stroke-width="2"/>
+      </g>
+      <text x="200" y="345" text-anchor="middle" font-size="10" fill="#7d8590">// swap for your own photo</text>
+    </g>
+  </g>
+
+  <line x1="410" y1="50" x2="410" y2="375" stroke="#30363d"/>
+
+  <!-- header -->
+  <clipPath id="i0"><rect x="450" y="56" height="22" width="0"><animate attributeName="width" from="0" to="130" begin="0.30s" dur="0.22s" fill="freeze"/></rect></clipPath>
+  <g clip-path="url(#i0)"><text x="450" y="72" fill="#22d3ee" font-size="14.5" font-weight="600">aditya@github</text></g>
+
+  <clipPath id="i1"><rect x="450" y="78" height="22" width="0"><animate attributeName="width" from="0" to="195" begin="0.52s" dur="0.22s" fill="freeze"/></rect></clipPath>
+  <g clip-path="url(#i1)"><text x="450" y="94" fill="#30363d" font-size="14.5" font-weight="600">─────────────────────</text></g>
+
+  <!-- info lines -->
+  <clipPath id="i2"><rect x="450" y="100" height="22" width="0"><animate attributeName="width" from="0" to="220" begin="0.74s" dur="0.22s" fill="freeze"/></rect></clipPath>
+  <g clip-path="url(#i2)"><text x="450" y="116" font-size="14.5"><tspan fill="#22d3ee" font-weight="600">Name</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e2e8f0">Aditya Kumar Soni</tspan></text></g>
+
+  <clipPath id="i3"><rect x="450" y="122" height="22" width="0"><animate attributeName="width" from="0" to="360" begin="0.96s" dur="0.22s" fill="freeze"/></rect></clipPath>
+  <g clip-path="url(#i3)"><text x="450" y="138" font-size="14.5"><tspan fill="#22d3ee" font-weight="600">Role</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e2e8f0">AI/LLM Engineer · Full-Stack Dev</tspan></text></g>
+
+  <clipPath id="i4"><rect x="450" y="144" height="22" width="0"><animate attributeName="width" from="0" to="290" begin="1.18s" dur="0.22s" fill="freeze"/></rect></clipPath>
+  <g clip-path="url(#i4)"><text x="450" y="160" font-size="14.5"><tspan fill="#22d3ee" font-weight="600">Stack</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e2e8f0">Next.js · Node.js · Bun</tspan></text></g>
+
+  <clipPath id="i5"><rect x="450" y="166" height="22" width="0"><animate attributeName="width" from="0" to="305" begin="1.40s" dur="0.22s" fill="freeze"/></rect></clipPath>
+  <g clip-path="url(#i5)"><text x="450" y="182" font-size="14.5"><tspan fill="#22d3ee" font-weight="600">Lang</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e2e8f0">TypeScript · Python · Rust</tspan></text></g>
+
+  <clipPath id="i6"><rect x="450" y="188" height="22" width="0"><animate attributeName="width" from="0" to="270" begin="1.62s" dur="0.22s" fill="freeze"/></rect></clipPath>
+  <g clip-path="url(#i6)"><text x="450" y="204" font-size="14.5"><tspan fill="#22d3ee" font-weight="600">Tools</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e2e8f0">Docker · Git · Vercel</tspan></text></g>
+
+  <clipPath id="i7"><rect x="450" y="210" height="22" width="0"><animate attributeName="width" from="0" to="350" begin="1.84s" dur="0.22s" fill="freeze"/></rect></clipPath>
+  <g clip-path="url(#i7)"><text x="450" y="226" font-size="14.5"><tspan fill="#22d3ee" font-weight="600">Focus</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e2e8f0">RAG · LLM Agents · Prompt Eng.</tspan></text></g>
+
+  <clipPath id="i8"><rect x="450" y="232" height="22" width="0"><animate attributeName="width" from="0" to="240" begin="2.06s" dur="0.22s" fill="freeze"/></rect></clipPath>
+  <g clip-path="url(#i8)"><text x="450" y="248" font-size="14.5"><tspan fill="#22d3ee" font-weight="600">Explore</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e2e8f0">Rust · Web3 · Solana</tspan></text></g>
+
+  <clipPath id="i9"><rect x="450" y="254" height="22" width="0"><animate attributeName="width" from="0" to="220" begin="2.28s" dur="0.22s" fill="freeze"/></rect></clipPath>
+  <g clip-path="url(#i9)"><text x="450" y="270" font-size="14.5"><tspan fill="#22d3ee" font-weight="600">Status</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#4ade80">Open to Work ⚡</tspan></text></g>
+
+  <line x1="0" y1="430" x2="880" y2="430" stroke="#30363d"/>
+  <text x="20" y="449" fill="#7d8590" font-size="13">aditya@github:~$ whoami <tspan fill="#e2e8f0">Aditya Kumar Soni</tspan><tspan fill="#22d3ee" font-weight="700"> ▌<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+</svg>
