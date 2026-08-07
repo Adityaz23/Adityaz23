@@ -35,13 +35,19 @@
         <rect x="320" y="310" width="4" height="4" fill="#22d3ee"/>
       </g>
       <!-- hooded silhouette -->
-      <g filter="none">
-        <path d="M120 380 C120 300 150 265 200 265 C250 265 280 300 280 380 Z" fill="#0d1420" stroke="url(#rimGrad)" stroke-width="2"/>
-        <path d="M160 235 C160 185 175 150 200 150 C225 150 240 185 240 235 C240 260 220 275 200 275 C180 275 160 260 160 235 Z" fill="#0d1420" stroke="url(#rimGrad)" stroke-width="2"/>
-        <rect x="172" y="210" width="56" height="10" rx="5" fill="#22d3ee" opacity="0.85"/>
-        <path d="M168 165 C180 140 220 140 232 165" fill="none" stroke="url(#rimGrad)" stroke-width="2"/>
-      </g>
-      <text x="200" y="345" text-anchor="middle" font-size="10" fill="#7d8590">// swap for your own photo</text>
+      
+     <g clip-path="url(#photoClip)">
+
+  <image
+    href="https://raw.githubusercontent.com/Adityaz23/Adityaz23/main/assets/david.jpg"
+    x="40"
+    y="55"
+    width="320"
+    height="320"
+    preserveAspectRatio="xMidYMid slice"
+  />
+
+</g>
     </g>
   </g>
 
