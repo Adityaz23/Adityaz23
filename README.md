@@ -1,11 +1,13 @@
-<a id="readme-top"></a>
+ <a id="readme-top"></a>
 
 <p align="center">
-<img src="assets/animation_banner.svg" alt="Aditya Kumar Soni"/>
+  <img src="assets/animation_banner.svg" alt="Aditya Kumar Soni"/>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=beige&center=true&vCenter=true&width=650&lines=Building%20AI-Powered%20Systems%20%F0%9F%A7%A0;Full-Stack%20Developer%20%7C%20LLM%20Engineer;Shipping%20Real%20Products%2C%20Not%20Just%20Demos%20%F0%9F%9A%80" />
 </p>
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Adityaz23">
     <img src="https://komarev.com/ghpvc/?username=Adityaz23&label=Profile%20views&color=000000&style=flat" />
@@ -13,12 +15,9 @@
   <img src="https://img.shields.io/badge/Open_to_Work-brightgreen?style=flat" alt="Open to Work"/>
 </p>
 
-<!-- <br /> -->
-<!-- <br /> -->
-
 <div align="center">
-<img src="assets/terminal.svg" alt="Animated terminal"/>
-</div> 
+  <img src="assets/terminal.svg" alt="Animated terminal"/>
+</div>
 
 ---
 
@@ -52,6 +51,7 @@ Currently exploring **Rust, Web3, Solana, and blockchain systems** on the side.
 <td width="50%">
 
 ### 📚 [Semantic Book Recommender](https://github.com/Adityaz23/books-recommendation)
+
 Discover your next favorite book using AI-powered **semantic search**, emotional-tone filtering, and category-based recommendations. Query in plain English (e.g. *"a dark fantasy with complex world-building"*) and get ranked matches with cover art, previews, and buy links.
 
 **Tech:** LangChain · ChromaDB · HuggingFace Embeddings · Gradio · Python
@@ -62,6 +62,7 @@ Discover your next favorite book using AI-powered **semantic search**, emotional
 <td width="50%">
 
 ### 🎥 [AI Video Assistant](https://github.com/Adityaz23/Video-Transcriber)
+
 Turns any meeting video, YouTube link, or audio file into a clean transcript, AI summary, action items, key decisions — plus a **RAG-powered chat** interface to ask questions about the content. Supports English (local Whisper) and Hinglish (Sarvam AI).
 
 **Tech:** Faster-Whisper · Groq (Llama 3.3) · LangChain · ChromaDB · Streamlit
@@ -74,6 +75,7 @@ Turns any meeting video, YouTube link, or audio file into a clean transcript, AI
 <td width="50%">
 
 ### ✍️ [Blog Intel](https://github.com/Adityaz23/Blog-intel)
+
 A modern full-stack blogging platform with secure authentication and **real-time data updates**. Built on the Next.js App Router for a scalable, responsive experience with instant UI feedback.
 
 **Tech:** Next.js 16 · Convex (real-time backend) · better-auth · TypeScript · Tailwind CSS
@@ -84,6 +86,7 @@ A modern full-stack blogging platform with secure authentication and **real-time
 <td width="50%">
 
 ### 💼 [JobSearch](https://github.com/Adityaz23/JobSearch) <img src="https://img.shields.io/badge/status-in--progress-yellow?style=flat-square" />
+
 A job search platform in active development, built on Next.js with a Supabase-backed database layer for storing and querying listings.
 
 **Tech:** Next.js · Supabase · TypeScript
@@ -97,21 +100,25 @@ A job search platform in active development, built on Next.js with a Supabase-ba
 ## 🛠️ Tech Stack
 
 ### 🧑‍💻 Programming Languages
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,c&perline=8" />
 </p>
 
 ### 🎨 Frontend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&perline=6" />
 </p>
 
 ### ⚙️ Backend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,bun,django&perline=4" />
 </p>
 
 ### 🧠 AI / LLM Stack
+
 <p align="center">
   🤖 LLM APIs (Groq, OpenAI) &nbsp; • &nbsp;
   🧠 Prompt Engineering &nbsp; • &nbsp;
@@ -121,21 +128,25 @@ A job search platform in active development, built on Next.js with a Supabase-ba
 </p>
 
 ### 🗄️ Database & Caching
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&perline=4" />
 </p>
 
 ### 🔐 Auth & Tooling
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=authjs,prisma,jwt&perline=3" />
 </p>
 
 ### 🚀 DevOps & Cloud
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,githubactions&perline=2" />
 </p>
 
 ### 🧰 Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vite&perline=5" />
 </p>
@@ -153,8 +164,9 @@ A job search platform in active development, built on Next.js with a Supabase-ba
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityaz23&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
+<!-- Git Koi -->
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaz23&theme=tokyo-night"/>
+  <img src="koi/koi.gif" width="256" alt="My GitHub Koi" />
 </p>
 
 ---
